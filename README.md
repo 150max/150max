@@ -1,6 +1,5 @@
 ## Hi , My name is Marcelo Silva 🖐️
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![150max GitHub stats](https://github-readme-stats.vercel.app/api?username=150max&show_icons=true&theme=cobalt&count_private=true)
 
